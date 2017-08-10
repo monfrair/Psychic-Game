@@ -1,0 +1,3 @@
+# Psychic-Game
+HW 3 Psychic Alphabet Game
+By William Sorrentino August 2017
